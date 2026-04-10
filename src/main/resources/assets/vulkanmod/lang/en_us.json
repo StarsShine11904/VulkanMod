@@ -1,4 +1,7 @@
 {
+  "modmenu.nameTranslation.vulkanmod": "VulkanMod",
+	"modmenu.descriptionTranslation.vulkanmod": "Bring Vulkan to Minecraft!",
+  
   "vulkanmod.options.unknown": "Unknown",
 
   "vulkanmod.options.pages.video": "Video",
