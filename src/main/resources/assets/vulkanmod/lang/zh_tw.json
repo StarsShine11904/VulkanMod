@@ -1,0 +1,54 @@
+{
+  "modmenu.nameTranslation.vulkanmod": "VulkanMod",
+  "modmenu.descriptionTranslation.vulkanmod": "將 Vulkan 引入 Minecraft！",
+  
+  "vulkanmod.options.unknown": "未知",
+
+  "vulkanmod.options.pages.video": "影像",
+  "vulkanmod.options.pages.graphics": "圖形",
+  "vulkanmod.options.pages.optimizations": "最佳化",
+  "vulkanmod.options.pages.other": "其他",
+
+  "vulkanmod.options.buttons.apply": "套用",
+  "vulkanmod.options.buttons.kofi": "支持我",
+  "vulkanmod.options.buttons.update_available": "有可用更新！",
+
+  "vulkanmod.options.advCulling": "進階區塊剔除",
+  "vulkanmod.options.advCulling.aggressive": "激進",
+  "vulkanmod.options.advCulling.conservative": "保守",
+  "vulkanmod.options.advCulling.normal": "一般",
+  "vulkanmod.options.advCulling.tooltip": "使用剔除演算法，藉由減少渲染不可見區塊的數量來提升效能。",
+
+  "vulkanmod.options.ao.subBlock": "開啟 (次區塊)",
+  "vulkanmod.options.ao.subBlock.tooltip": "開啟 (次區塊)：為非完整區塊啟用平滑光照（實驗性功能）。",
+
+  "vulkanmod.options.deviceSelector": "顯示卡選擇",
+  "vulkanmod.options.deviceSelector.auto": "自動",
+  "vulkanmod.options.deviceSelector.tooltip": "目前顯示卡",
+
+  "vulkanmod.options.entityCulling": "實體剔除",
+  "vulkanmod.options.entityCulling.tooltip": "對不可見區域內的實體啟用剔除。",
+
+  "vulkanmod.options.frameQueue": "渲染佇列大小",
+  "vulkanmod.options.frameQueue.tooltip": "較高的數值有助於穩定幀時間，但會增加輸入延遲。",
+
+  "vulkanmod.options.backfaceCulling": "背面剔除",
+  "vulkanmod.options.backfaceCulling.tooltip": "在 CPU 端剔除不可見的方塊面以提升 GPU 效能。為避免增加 CPU 負載，請啟用間接繪製 (Indirect Draw)。",
+
+  "vulkanmod.options.indirectDraw": "間接繪製",
+  "vulkanmod.options.indirectDraw.tooltip": "降低 CPU 負載，但可能會增加 GPU 負載。",
+
+  "vulkanmod.options.refreshRate": "螢幕更新率",
+
+  "vulkanmod.options.uniqueOpaqueLayer": "獨立不透明圖層",
+  "vulkanmod.options.uniqueOpaqueLayer.tooltip": "為不透明地形使用獨立的渲染圖層以提升效能。",
+
+  "vulkanmod.options.windowMode": "視窗模式",
+  "vulkanmod.options.windowMode.windowed": "視窗化",
+  "vulkanmod.options.windowMode.windowedFullscreen": "無邊框視窗化",
+
+  "vulkanmod.options.builderThreads": "區塊構建執行緒",
+  "vulkanmod.options.builderThreads.auto": "自動",
+
+  "vulkanmod.options.textureAnimations": "材質動畫"
+}
